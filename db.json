@@ -177,22 +177,6 @@
   "messages": [
     {
       "teamId": "linkedin",
-      "channelId": "compliments",
-      "userId": 2,
-      "createdAt": "2019-04-21T17:48:33.421Z",
-      "body": "Your penmanship is excellent!",
-      "id": 1
-    },
-    {
-      "teamId": "linkedin",
-      "channelId": "compliments",
-      "userId": 1,
-      "createdAt": "2019-04-21T17:54:38.556Z",
-      "body": "I admire your punctuality",
-      "id": 2
-    },
-    {
-      "teamId": "linkedin",
       "channelId": "general",
       "userId": 2,
       "createdAt": "2019-04-21T17:55:08.713Z",
@@ -228,7 +212,9 @@
       "channelId": "general",
       "userId": 1,
       "body": "awqwdqwqwdq",
-      "enrichedBody": ["awqwdqwqwdq"],
+      "enrichedBody": [
+        "awqwdqwqwdq"
+      ],
       "createdAt": 1555872270175,
       "id": 14
     },
@@ -263,14 +249,6 @@
       "body": "Hello developer, I looked at your profile and am impressed by your 14 years of COBOL experience. Are you happy in your current role?",
       "createdAt": 1555874584752,
       "id": 18
-    },
-    {
-      "channelId": "bofny",
-      "teamId": "avengers",
-      "body": "Hey dudes",
-      "userId": "3",
-      "createdAt": 1556676377508,
-      "id": 19
     },
     {
       "channelId": "funny",
@@ -575,6 +553,22 @@
       "userId": "1",
       "createdAt": 1556683077121,
       "id": 57
+    },
+    {
+      "teamId": "li",
+      "channelId": "general",
+      "userId": 1,
+      "body": "Hi everyone!",
+      "createdAt": 1603910858848,
+      "id": 58
+    },
+    {
+      "teamId": "li",
+      "channelId": "general",
+      "userId": 1,
+      "body": "Hi everyone!",
+      "createdAt": 1603910976592,
+      "id": 59
     }
   ]
 }
